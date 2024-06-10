@@ -8,7 +8,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&logoSize=auto)
 ![Folium](https://img.shields.io/badge/Folium-F8C517?style=flat&logo=folium&logoColor=white&logoSize=auto)
 ![GoogleBigQuery](https://img.shields.io/badge/Google%20Big%20Query-669DF6?style=flat&logo=googlebigquery&logoColor=white&logoSize=auto)
-![GoogleCloudStorage](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=white&
+![GoogleCloudStorage](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=white&logoSize=auto)
 
 ## **HOLA! SOY MANUEL DAVID** 
 
