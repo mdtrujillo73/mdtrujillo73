@@ -12,13 +12,8 @@
 
 ## **HOLA! SOY MANUEL DAVID** 
 
-Este proyecto se llevó a cabo asumiendo el rol de un analista de datos de una firma consultora, con el propósito de elaborar un análisis de datos solicitado por el `Observatorio de Movilidad y Seguridad Vial (OMSV)` (OMSV), dependiente de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
-
-El objetivo principal del proyecto es recopilar información que pueda respaldar la toma de decisiones por parte de las autoridades correspondientes, con el fin de prevenir accidentes viales, mejorar la seguridad en las vías y reducir el número de accidentes fatales en la Ciudad de Buenos Aires.
-
-Las tasas de mortalidad vinculadas a los accidentes de tráfico son indicadores críticos de la seguridad vial en una zona determinada. Estas tasas suelen calcularse como el número de fallecimientos por cada cierto número de habitantes o vehículos registrados. La reducción de estas tasas es crucial para mejorar la seguridad vial y proteger la vida de los ciudadanos en la urbe.
-
-Para alcanzar este objetivo, se utilizan inicialmente datos obtenidos de un conjunto de datos que contiene información sobre los fallecimientos por accidentes de tráfico en la Ciudad de Buenos Aires durante los años 2016-2021. Este conjunto de datos está disponible para el público en la página oficial de CABA, y se puede acceder a él a través del enlace proporcionado en [Datos oficiales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales).
+# Quien soy? #
+¡Hola! 👋 Soy Manuel David, Ingeniero Eléctrico y Electrónico 👷‍♂️con una sólida trayectoria de más de 9 años en estudios eléctricos⚡. Mi pasión por los datos y su análisis 📊📈 me ha llevado a explorar constantemente nuevas herramientas y tecnologías para potenciar mi carrera profesional. Recientemente, he estado inmerso en la adquisición de habilidades clave como Python, Docker, Google Cloud Platform, PowerBI, Streamlit y Tableau, con el objetivo de ofrecer soluciones más eficientes y avanzadas en mi campo. 😊 Estoy emocionado de conectar con colegas y profesionales afines para compartir conocimientos y experiencias en este apasionante mundo de la ingeniería y la tecnología. ¡Espero poder conectar contigo pronto!💻
 
  ## **Contexto**
 
