@@ -1,15 +1,16 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
+![Streamlit](https://img.shields.io/badge/Streamlit-deploy-brightgreen?style=flat&logo=streamlit&logoColor=red&logoSize=auto)
+![Scikitlearn](https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white&logoSize=auto)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white&logoSize=auto)
+![Folium](https://img.shields.io/badge/Folium-F8C517?style=flat&logo=folium&logoColor=white&logoSize=auto)
+![GoogleBigQuery](https://img.shields.io/badge/Google%20Big%20Query-669DF6?style=flat&logo=googlebigquery&logoColor=white&logoSize=auto)
+![GoogleCloudStorage](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=white&
 
-![Static Badge](https://img.shields.io/badge/PowerBI-gray?style=flat&logo=powerbi)
-![Static Badge](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
-![Static Badge](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=pandas)
-![Static Badge](https://img.shields.io/badge/-Matplotlib-gray?style=flat&logo=matplotlib)
-![Static Badge](https://img.shields.io/badge/-Seaborn-gray?style=flat&logo=seaborn)
-![Static Badge](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=flat&logo=jupyter)
-![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual%20studio%20code&logoColor=white)
-
-## **Proyecto Individual** - 02-Siniestros Viales en CABA con víctimas fatales -(2016-2021) 
-
-## **Introducción**
+## **HOLA! SOY MANUEL DAVID** 
 
 Este proyecto se llevó a cabo asumiendo el rol de un analista de datos de una firma consultora, con el propósito de elaborar un análisis de datos solicitado por el `Observatorio de Movilidad y Seguridad Vial (OMSV)` (OMSV), dependiente de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).
 
