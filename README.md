@@ -29,7 +29,7 @@ En mi visión personal, aspiro a convertirme en un referente destacado en el cam
   - Streamlit
   - Tableau
 ## Estadísticas de Manuel David
-[![Manuel David GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtrujillo73)](https://github.com/mdtrujillo73/github-readme-stats  
+[![Manuel David GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtrujillo73)](https://github.com/mdtrujillo73/github-readme-stats)  
 ## Contáctame 
 
 <div align="center">
