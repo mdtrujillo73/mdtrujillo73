@@ -41,7 +41,7 @@ En mi visión personal, aspiro a convertirme en un referente destacado en el cam
 
 
 ## Estadísticas de Manuel David
-[![Manuel David GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtrujillo73)](https://github.com/mdtrujillo73/github-readme-stats)  
+![Manuel David's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtrujillo73&show_icons=true&theme=radical)  
 ## Contáctame 
 
 <div align="center">
