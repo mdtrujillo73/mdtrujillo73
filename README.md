@@ -31,14 +31,13 @@ En mi visión personal, aspiro a convertirme en un referente destacado en el cam
 
 ## Proyectos realizados
 
-
-    🔍 Yelp & Google Maps Reviews y Recomendaciones [Echa un vistazo!](https://github.com/Joaqrz/Proyecto_Final_Yelp): Sistema avazado de recomendación usando Google Cloud Platform, Scikit-learn, Folium, Apache Airflow, Streamlit y Power BI.
-
-
-    🚦  Analisis de Siniestros viales  en Buenos Aires [Echa un vistazo!](https://github.com/mdtrujillo73/PI2_PBI_SINIESTROSVIALES_MDTR): Analisis de accidentes viales empleando una amplia base de datos usando Python, PowerBI.
+🔍 Yelp & Google Maps Reviews y Recomendaciones [Echa un vistazo!](https://github.com/Joaqrz/Proyecto_Final_Yelp): Sistema avazado de recomendación usando Google Cloud Platform, Scikit-learn, Folium, Apache Airflow, Streamlit y Power BI.
 
 
-    🎮 MLOps API | Sistema de recomendación [Echa un vistazo!](https://github.com/mdtrujillo73/MI_OPS_Henry): Desarrollo de una API basado en un sistema de recomendación con Python, aprovechando técnicas de procesamiento de datos y machine-learning.
+🚦  Analisis de Siniestros viales  en Buenos Aires [Echa un vistazo!](https://github.com/mdtrujillo73/PI2_PBI_SINIESTROSVIALES_MDTR): Analisis de accidentes viales empleando una amplia base de datos usando Python, PowerBI.
+
+
+🎮 MLOps API | Sistema de recomendación [Echa un vistazo!](https://github.com/mdtrujillo73/MI_OPS_Henry): Desarrollo de una API basado en un sistema de recomendación con Python, aprovechando técnicas de procesamiento de datos y machine-learning.
 
 
 ## Estadísticas de Manuel David
