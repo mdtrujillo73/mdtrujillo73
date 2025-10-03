@@ -14,7 +14,7 @@
 
 ## Quien soy? #
 
-¡Hola! 👋 Soy Manuel David, Ingeniero Eléctrico y Electrónico 👷‍♂️con una sólida trayectoria de más de 9 años en estudios eléctricos⚡. Mi pasión por los datos y su análisis 📊📈 me ha llevado a explorar constantemente nuevas herramientas y tecnologías para potenciar mi carrera profesional. Recientemente, he estado inmerso en la adquisición de habilidades clave como Python, Docker, Google Cloud Platform, PowerBI, Streamlit y Tableau, con el objetivo de ofrecer soluciones más eficientes y avanzadas en mi campo. 😊 Estoy emocionado de conectar con colegas y profesionales afines para compartir conocimientos y experiencias en este apasionante mundo de la ingeniería y la tecnología. ¡Espero poder conectar contigo pronto!💻
+¡Hola! 👋 Soy Manuel David, Ingeniero Eléctrico y Electrónico 👷‍♂️con una sólida trayectoria de más de 7 años en estudios eléctricos⚡. Mi pasión por los datos y su análisis 📊📈 me ha llevado a explorar constantemente nuevas herramientas y tecnologías para potenciar mi carrera profesional. Recientemente, he estado inmerso en la adquisición de habilidades clave como Python, Docker, Google Cloud Platform, PowerBI, Streamlit y Tableau, con el objetivo de ofrecer soluciones más eficientes y avanzadas en mi campo. 😊 Estoy emocionado de conectar con colegas y profesionales afines para compartir conocimientos y experiencias en este apasionante mundo de la ingeniería y la tecnología. ¡Espero poder conectar contigo pronto!💻
 
  ## Para donde voy?
 
